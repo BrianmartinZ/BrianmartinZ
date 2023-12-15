@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL, Power BI, Tableau.**
 
-- 👨‍💻 All of my projects are available at [...](https://brianmartinz.github.io/)
+- 👨‍💻 All of my projects are available at [brianmartinz.github.io](https://brianmartinz.github.io/)
 
 - 💬 Ask me about **Microsoft Excel, SQL, Power BI, Tableau.**
 
