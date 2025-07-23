@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, Mi nombre es Brian Martin Ortiz.</h1>
 <h3 align="center">Vivo en Argentina, Buenos aires. Actualmente soy estudiante de segundo año en Ciencia de Datos de la UGR.</h3>
 
-- 🌱 En mi formación he aprendido a trabajar con herramientas como **SQL, Power BI, Tableau, Python, R y Modelos de Machine learning.**
+- 🌱 En mi formación he aprendido a trabajar con herramientas como SQL, Power BI, Tableau y lenguajes de programación como Python y R, además de adquirir conocimientos en modelos de Machine Learning.**
 
 - 👨‍💻 Todos mis proyectos realizados los iré subiendo aquí: [brianmartinz.github.io](https://brianmartinz.github.io/)
 
