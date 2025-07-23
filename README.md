@@ -5,11 +5,11 @@
 
 - 👨‍💻 Todos mis proyectos realizados los iré subiendo aquí: [brianmartinz.github.io](https://brianmartinz.github.io/)
 
-- 📫 Puedes contactarme por mail a: **brianmartinortiz@gmail.com**
+- 📫 Puedes contactarme por Email a: **brianmartinortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/brian-ortiz-304431254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-ortiz-304431254" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brianmartinortiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-ortiz-304431254" height="30" width="40" /></a>
 <a href="https://kaggle.com/brianmartinortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="brianmartinortiz" height="30" width="40" /></a>
 <a href="https://www.behance.net/brianmartinortiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="brianmartinortiz" height="30" width="40" /></a>
 </p>
