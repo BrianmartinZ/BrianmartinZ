@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, Mi nombre es Brian Martin Ortiz.</h1>
-<h3 align="center">Vivo en Argentina, Buenos aires. Actualmente soy estudiante de segundo año en **Ciencia de Datos** de la UGR.</h3>
+<h3 align="center">Vivo en Argentina, Buenos aires. Actualmente soy estudiante de segundo año en Ciencia de Datos de la UGR.</h3>
 
 - 🌱 En mi formación he aprendido a trabajar con herramientas como **SQL**, **Power BI**, **Tableau**, **Python**, **R**, además de Modelos de **Machine learning**. 
 
