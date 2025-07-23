@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, My name is Brian Martin Ortiz.</h1>
-<h3 align="center">I live in Argentina, Buenos aires. Currently, I'm studying data analytics.</h3>
+<h1 align="center">Hola! 👋, Mi nombre es Brian Martin Ortiz.</h1>
+<h3 align="center">Vivo en Argentina, Buenos aires. Actualmente soy estudiante de segundo año en Ciencia de Datos de la UGR.</h3>
 
-- 🌱 I’m currently learning **SQL, Power BI, Tableau.**
+- 🌱 En mi formación he aprendido a trabajar con herramientas como **SQL, Power BI, Tableau, Python, R y Modelos de Machine learning.**
 
-- 👨‍💻 All of my projects are available at [brianmartinz.github.io](https://brianmartinz.github.io/)
+- 👨‍💻 Todos mis proyectos realizados los iré subiendo aquí: [brianmartinz.github.io](https://brianmartinz.github.io/)
 
-- 💬 Ask me about **Microsoft Excel, SQL, Power BI, Tableau.**
-
-- 📫 How to reach me **brianmartinortiz@gmail.com**
+- 📫 Puedes contactarme por mail a: **brianmartinortiz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
