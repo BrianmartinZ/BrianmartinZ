@@ -50,7 +50,8 @@
 
 <br><br>
 
-## 🤸‍♂ Insignias Credly
+## ☑️ Insignias Credly
+
 [![Static Badge](https://img.shields.io/badge/Introduction_to_Data_Science-Specialization-blue?style=for-the-badge&logo=Cisco&logoColor=white&labelColor=auto)](https://www.credly.com/badges/daeb79e9-e9fa-4eb6-afea-d18309d4ec73/public_url)
 [![Static Badge](https://img.shields.io/badge/Data_Analysis_Using_Python-Specialization-blue?style=for-the-badge&logo=Python&logoColor=white&labelColor=auto)](https://www.credly.com/badges/378399e1-1d6d-4478-9f0e-4849b5f7f760/public_url)
 
